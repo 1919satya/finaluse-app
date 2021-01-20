@@ -1,0 +1,25 @@
+{
+    "transactions": [
+    
+      {
+        "fromAccNo": 1213141516,
+        "toAccNo": 1213141517,
+        "transactionAmmount": 5000,
+        "transactionDate": "2021-01-19T06:38:20.457Z",
+        "transactionRemarks": "sucessfull",
+        "BalanceOnDate": 30000,
+        "transactionId": 2,
+        "id": 2
+      },
+      {
+        "fromAccNo": 1213141517,
+        "toAccNo": 1213141518,
+        "transactionAmmount": 5000,
+        "transactionDate": "2021-01-20T08:00:37.662Z",
+        "transactionRemarks": "sucessfull",
+        "BalanceOnDate": 28000,
+        "transactionId": 3,
+        "id": 3
+      }
+    ]
+  }
